@@ -1,0 +1,24 @@
+.contact{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    margin-bottom: 20px;
+    
+    
+}
+.contactContainer{ 
+    display: flex;
+    flex-direction: column;
+
+}
+.contactItem{
+ width:150px;
+
+}
+
+.contactBtn{
+width:88px;
+height: 48px;
+ 
+}
